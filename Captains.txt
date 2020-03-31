@@ -1,0 +1,8 @@
+1.	MS Dhoni(Captain)
+2.	Shreyas Iyer (Captain)
+3.	KL Rahul (Captain)
+4.	Dinesh Karthik (Captain)
+5.	Rohit Sharma (Captain)
+6.	Steve Smith (Captain)
+7.	Virat Kohli (Captain)
+8.	Kane Williamson (Captain)

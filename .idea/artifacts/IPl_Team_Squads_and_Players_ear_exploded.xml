@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="IPl Team Squads and Players:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPl_Team_Squads_and_Players_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IPl Team Squads and Players/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="IPl Team Squads and Players:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
